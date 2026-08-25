@@ -1,0 +1,13 @@
+{
+  "name": "sentinelforge-agent-harness",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Human-governed autonomous production incident response agent built with TrueForge",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "echo \"Workspace tests will be added as services are implemented\""
+  },
+  "license": "MIT"
+}
