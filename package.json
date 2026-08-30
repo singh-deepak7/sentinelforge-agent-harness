@@ -1,13 +1,21 @@
 {
-  "name": "sentinelforge-agent-harness",
+  "name": "sentinelforge",
   "version": "0.1.0",
   "private": true,
-  "description": "Human-governed autonomous production incident response agent built with TrueForge",
+  "description": "AI-powered production incident investigation and recovery agent built on TrueForge",
   "engines": {
     "node": ">=22"
   },
   "scripts": {
-    "test": "echo \"Workspace tests will be added as services are implemented\""
+    "test": "echo \"Tests will be added in a later phase\""
   },
+  "keywords": [
+    "trueforge",
+    "agent",
+    "mcp",
+    "incident-response",
+    "ai",
+    "sre"
+  ],
   "license": "MIT"
 }
